@@ -1,0 +1,64 @@
+.color-blue{
+    background-color: #051328;
+}
+
+@font-face {
+    font-family: myrad-reg;
+    src: url(fonts/MYRIADPRO-REGULAR.OTF);
+}
+@font-face {
+    font-family: myrad-bold;
+    src: url(fonts/MYRIADPRO-BOLD.OTF);
+}
+.heading-class-name{
+    font-family: myrad-bold;
+    font-size: 45px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.heading-sem-name{
+    font-family: myrad-reg;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: -20px;
+}
+.heading-type{
+    font-family: myrad-reg;
+    font-size: 20px;
+    color: rgb(151, 150, 150);
+    text-align: center;
+    margin-top: 0px;
+
+}
+
+
+.table-custom{
+    background-color: white;
+    margin-left: 3%;
+    margin-right: 3%;
+    width: 94%;
+    
+    
+}
+.table-day-name{
+    color: white;
+    /*font-family: myrad-reg;*/
+    font-size: 20px;
+    padding-left: 5px;
+   
+}
+
+.table-heading-body{
+    background-color: darkgreen;
+    color: white;
+  
+}
+
+.tr-2{
+    background-color: rgba(13, 153, 32, 0.1);
+
+}
+
+
